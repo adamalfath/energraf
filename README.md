@@ -1,1 +1,1 @@
-GUI for SENTSOR Energraf project
+GUI release file for SENTSOR Energraf project
